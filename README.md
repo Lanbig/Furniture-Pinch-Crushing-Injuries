@@ -1,6 +1,6 @@
 # Furniture-Pinch-Injury
 
-Data: NEISS 1980-2015
+### Data: NEISS 1980-2015
 
 ### Diagnosis Code:
 - 50 – Amputation
