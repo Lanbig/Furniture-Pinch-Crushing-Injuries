@@ -82,6 +82,13 @@ extractYear <- function(df , old_data = F){
   return(years)
 }
 
+### Group Year
+groupYear <- function(df){
+  
+  
+}
+
+
 merge.all <- function(x, ..., by = "year") {
   L <- list(...)
   for (i in seq_along(L)) {
