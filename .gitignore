@@ -1,6 +1,5 @@
 # Data files
-Assets/NSS/*.csv
-Assets/NSS/80-96/*.csv
+Assets/*
 
 # History files
 .Rhistory
