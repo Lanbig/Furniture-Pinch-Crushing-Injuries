@@ -1,4 +1,4 @@
-# Furniture-Pinch-Injury
+# Furniture-Pinch-Crushing-Injury
 
 ### Data: NEISS 1980-2015
 
